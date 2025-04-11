@@ -17,4 +17,4 @@ Analyzed global sales data from an e-commerce retailer to uncover trends, optimi
 ![Dashboard Screenshot](link)
 
 ## 📂 Files Included
-- `GlobalSuperstore_Insights.pbix`
+- `SalesReport.pbix`
