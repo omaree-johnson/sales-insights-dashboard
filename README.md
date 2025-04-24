@@ -14,7 +14,8 @@ Analyzed global sales data from an e-commerce retailer to uncover trends, optimi
 - Peak sales occur in Q4 each year
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](link)
+![image](https://github.com/user-attachments/assets/28189bb1-cfe0-454c-aede-464017a216b9)
+
 
 ## 📂 Files Included
 - `SalesReport.pbix`
